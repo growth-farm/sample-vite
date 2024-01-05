@@ -1,6 +1,6 @@
 this is sample file
 
 
-Local Working Directory <> Local Repository <> Remote Repository (Github, Azure GIT, Gitlab, Bitbucket)
+Local Working Tree <> Local Repository <> Remote Repository (Github, Azure GIT, Gitlab, Bitbucket)
 
 Local repository has branches (master)
